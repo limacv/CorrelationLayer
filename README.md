@@ -40,7 +40,7 @@ to
 ```python
 from correlation_torch import CorrTorch as Correlation
 ```
-that should be seamless switch to the new layer. 
+that should seamlessly switch to the new layer. 
 
 
 ## Sample of test
